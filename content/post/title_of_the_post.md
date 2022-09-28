@@ -1,6 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Title_of_the_post"
+date: 2022-09-28T16:42:49+05:30
+draft: false
+summary: "sahbchjnbdhsjvhjdnfjknkjxksnajkdncjkncjksnjknjknkjnkjdsnjknfkckjadsnkcjdfnjkvnkfhgbvhbs"
 ---
 
 sahbchjnbdhsjvhjdnfjknkjxksnajkdncjkncjksnjknjknkjnkjdsnjknfkckjadsnkcjdfnjkvnkfhgbvhbs
